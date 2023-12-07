@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alidaa
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me: alida.amrekul@gmail.com
 
